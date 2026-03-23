@@ -30,3 +30,4 @@ struct NextCryptoApp: App {
         .modelContainer(sharedModelContainer)
     }
 }
+
