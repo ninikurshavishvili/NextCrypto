@@ -7,7 +7,8 @@
 
 import SwiftUI
 import SwiftData
-//TODO: Get Started Page. 
+//TODO: Get Started Page.
+
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
